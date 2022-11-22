@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="tv">
+  <channel id="svtvmepg.se">
+    <display-name lang="se">Argentina - Saudiarabien</display-name>
+  </channel>
+  <channel id="placeholderchannel2.se">
+    <display-name lang="se">TITLE</display-name>
+  </channel>
+  <channel id="placeholderchannel3.se">
+    <display-name lang="se">TITLE</display-name>
+  </channel>
+  <programme start="20221122103500 +0000" stop="20221122130000 +0000" channel="svtvmepg.se">
+    <title lang="se">Argentina - Saudiarabien</title>
+    <desc lang="se">Argentina möter Saudiarabien i en direktsändning från Qatar.</desc>
+  </programme>
+  <programme start="20221122130500 +0000" stop="20221122163000 +0000" channel="svtvmepg.se">
+    <title lang="se">Danmark - Tunisien</title>
+    <desc lang="se">Danmark möter Tunisien i en direktsändning från Qatar.</desc>
+  </programme>
+  <programme start="20221121000000 +0000" stop="20221121003000 +0000" channel="placeholderchannel2.se">
+    <title lang="se">Kommer.</title>
+    <desc lang="se">Kommer.</desc>
+  </programme>
+</tv>
